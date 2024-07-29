@@ -1,0 +1,19 @@
+22370.25user 172.27system 6:16:30elapsed 99%CPU (0avgtext+0avgdata 2129620maxresident)k
+419260inputs+868880outputs (1180major+72767479minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s1Bx2_acq-r10x10x10/sub-cIIs02_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz took 22590.25256562233 seconds
+22388.17user 211.48system 6:17:28elapsed 99%CPU (0avgtext+0avgdata 2092700maxresident)k
+416106inputs+868376outputs (1167major+93535617minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s1Ax1_acq-r10x10x10/sub-cIIs02_ses-s1Ax1_acq-r10x10x10_T1w.nii.gz took 22648.41272878647 seconds
+22765.81user 262.45system 6:24:34elapsed 99%CPU (0avgtext+0avgdata 2168952maxresident)k
+416704inputs+908704outputs (1205major+76926434minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s2x1_acq-r10x10x10/sub-cIIs02_ses-s2x1_acq-r10x10x10_T1w.nii.gz took 23074.536539793015 seconds
+22817.26user 218.08system 6:24:42elapsed 99%CPU (0avgtext+0avgdata 2102616maxresident)k
+415210inputs+876000outputs (1175major+85284972minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s1Bx1_acq-r10x10x10/sub-cIIs02_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz took 23082.196553707123 seconds
+22915.42user 168.90system 6:25:29elapsed 99%CPU (0avgtext+0avgdata 2095316maxresident)k
+412250inputs+874832outputs (1234major+71316642minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s1Ax2_acq-r10x10x10/sub-cIIs02_ses-s1Ax2_acq-r10x10x10_T1w.nii.gz took 23129.97993683815 seconds
+24151.14user 215.92system 6:46:54elapsed 99%CPU (0avgtext+0avgdata 2105420maxresident)k
+422402inputs+935904outputs (1239major+82096085minor)pagefaults 0swaps
+Processing /fs5/p_masi/kimm58/Informatics/processing_test_local/inputs/sub-cIIs02_ses-s3x1_acq-r09x09x09/sub-cIIs02_ses-s3x1_acq-r09x09x09_T1w.nii.gz took 24414.108273267746 seconds
+

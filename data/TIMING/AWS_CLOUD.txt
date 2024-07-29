@@ -1,0 +1,37 @@
+Processing 1: /home/ubuntu/inputs/sub-cIIs02_ses-s3x1_acq-r09x09x09/sub-cIIs02_ses-s3x1_acq-r09x09x09_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s3x1_acq-r09x09x09
+
+real	374m30.424s
+user	370m52.637s
+sys	3m24.073s
+Processing 2: /home/ubuntu/inputs/sub-cIIs02_ses-s1Bx1_acq-r10x10x10/sub-cIIs02_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s1Bx1_acq-r10x10x10
+
+real	357m59.467s
+user	354m11.565s
+sys	3m34.659s
+Processing 3: /home/ubuntu/inputs/sub-cIIs02_ses-s2x1_acq-r10x10x10/sub-cIIs02_ses-s2x1_acq-r10x10x10_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s2x1_acq-r10x10x10
+
+real	350m45.672s
+user	347m19.830s
+sys	3m12.190s
+Processing 4: /home/ubuntu/inputs/sub-cIIs02_ses-s1Bx2_acq-r10x10x10/sub-cIIs02_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s1Bx2_acq-r10x10x10
+
+real	343m18.587s
+user	340m3.940s
+sys	3m1.417s
+Processing 5: /home/ubuntu/inputs/sub-cIIs02_ses-s1Ax1_acq-r10x10x10/sub-cIIs02_ses-s1Ax1_acq-r10x10x10_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s1Ax1_acq-r10x10x10
+
+real	356m17.172s
+user	352m7.008s
+sys	3m56.831s
+Processing 6: /home/ubuntu/inputs/sub-cIIs02_ses-s1Ax2_acq-r10x10x10/sub-cIIs02_ses-s1Ax2_acq-r10x10x10_T1w.nii.gz
+/home/ubuntu/outputs/sub-cIIs02_ses-s1Ax2_acq-r10x10x10
+
+real	351m55.975s
+user	348m43.902s
+sys	2m59.097s
+
