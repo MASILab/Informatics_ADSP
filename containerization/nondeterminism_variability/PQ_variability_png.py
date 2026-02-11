@@ -70,7 +70,9 @@ def create_png(b0data, b1000data, fa_mask, cov_means, cmap, outfile, imghd):
     plt.savefig(outfile, bbox_inches='tight')
     plt.close('all')
 
-root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual")
+#root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual")
+root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual/viselab")    
+
 variability_dir = root / "variability"
 
 #average COV across b1000 volumes
@@ -94,5 +96,8 @@ b1000_wm_cov_mean = np.nanmean(b1000_cov[fa_mask > 0])
 cov_means = [b0_cov_mean, b1000_cov_mean, b1_wm_cov_mean, b1000_wm_cov_mean]
 
 #create the 3D png of the masked COV with a colorbar of slice (54, 54, 29)
-outpng = variability_dir / "masked_cov_dwi.png"
+if root.name == 'viselab':
+    outpng = variability_dir / "masked_cov_dwi_viselab.png"
+else:
+    outpng = variability_dir / "masked_cov_dwi.png"
 create_png(b0_cov, b1000_cov, fa_mask, cov_means, cmap='hot', outfile=outpng, imghd=nib.load(b0_cov_file).header)

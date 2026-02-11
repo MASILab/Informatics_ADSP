@@ -52,7 +52,9 @@ def create_png(b0data, b1000data, cmap, outfile, imghd):
     plt.savefig(outfile, bbox_inches='tight')
     plt.close('all')
 
-root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual")
+#root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual")
+root = Path("/nfs/masi/kimm58/containerization_data/nondeterminism/PreQual/viselab")    
+
 dwis = [root/f"iter_{n}/PREPROCESSED/dwmri.nii.gz" for n in range(1, 51)]
 variability_dir = root / "variability"
 
